@@ -1,0 +1,32 @@
+_repo: Lila-akac-b-Egy-fovarosi-fiatalember-regenye_73939
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Szép, Ernő
+    alias: Szep, Erno
+    birthdate: 1884
+    deathdate: 1953
+    gutenberg_agent_id: '57281'
+    url: http://www.gutenberg.org/2009/agents/57281
+    wikipedia: https://hu.wikipedia.org/wiki/Sz%C3%A9p_Ern%C5%91
+description: ''
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73939'
+language: hu
+pgterms:marc905: 20240627101702szp
+pgterms:marc906: '1919'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bAthenaeum, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Lila ákác : $b Egy fővárosi fiatalember regénye'
+url: http://www.gutenberg.org/ebooks/73939
